@@ -1,0 +1,11 @@
+Kanto=['bulbassaur,charmander,squirtle']
+Jotho=['chikorita,cyndaquil,totodile']
+Hoenn=['treeko,torchic,mudkip']
+Sinoh=['torterra,chinchar,piplup']
+Unova=['snivy,tepig,washawott']
+Kalos=['chespin,fennekin,froakie']
+Alola=['rowlet,litten,poplio']
+Galar=['grokey,rabbot,sobble']
+Paldea=['sprigatito,fuecoco,quaxly']
+
+print(Kanto,Jotho,Hoenn,Sinoh,Unova,Kalos,Alola,Galar,Paldea)
